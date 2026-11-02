@@ -1,0 +1,6 @@
+def add(*args):
+    print(args)
+
+
+
+add(11,12,13,14)
